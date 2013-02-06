@@ -1,0 +1,11 @@
+# @title Post save actions
+# @description Format changed code and remove unused imports on save
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Wed Feb 06 15:41:26 CET 2013
+/instance/org.eclipse.jdt.ui/sp_cleanup.format_source_code=true
+file_export_version=3.0
+/instance/org.eclipse.jdt.ui/editor_save_participant_org.eclipse.jdt.ui.postsavelistener.cleanup=true
+/instance/org.eclipse.jdt.ui/sp_cleanup.remove_unused_imports=true
+/instance/org.eclipse.jdt.ui/sp_cleanup.format_source_code_changes_only=true
