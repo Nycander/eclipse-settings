@@ -7,6 +7,7 @@
 /instance/org.eclipse.ui.editors/showLineFeed=false
 /instance/org.eclipse.ui.editors/showEnclosedTabs=false
 /instance/org.eclipse.ui.editors/printMargin=true
+/instance/org.eclipse.ui.editors/printMarginColumn=90
 /instance/org.eclipse.ui.editors/showWhitespaceCharacters=true
 /instance/org.eclipse.ui.editors/showEnclosedIdeographicSpaces=false
 file_export_version=3.0
