@@ -1,0 +1,8 @@
+# @title Curly braces
+# @description Always use curly braces around if/while/do blocks.
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Mon Feb 11 11:42:42 CET 2013
+file_export_version=3.0
+/instance/org.eclipse.jdt.ui/sp_cleanup.use_blocks=true
